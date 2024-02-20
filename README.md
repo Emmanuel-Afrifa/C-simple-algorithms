@@ -9,3 +9,6 @@
   - Swaps the value of two numbers.
 - triangle_area.c
   - Calulates the area of a triangle the base and height of the triangle.
+- grading.c
+  - Determines the average score of a student and checks whether they failed or passed.
+
